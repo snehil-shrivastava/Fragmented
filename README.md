@@ -1,6 +1,6 @@
 # Fragmented
 
-  Discuss on android devlopment. This file contains the details of the fragmented dev talk. Fragmented is intended for beginners. ( Even if you don't have any coding skills ). First, we will begin by learning kotlin for four sessions and then again four sessions on android development.
+  Discuss on android devlopment. This file contains the details of the fragmented dev talk. Fragmented is intended for beginners. ( Even if you don't have any coding skills ). First, we will begin by learning kotlin and then focus on android development.
 
 ## Session #01  -  Introduction to kotlin
 * Hello World
